@@ -2,7 +2,7 @@
 
 A stunning 3D portfolio website built with React, Three.js, and Framer Motion.
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - **React 18** - UI Framework
 - **Three.js / React Three Fiber** - 3D Graphics
@@ -10,7 +10,7 @@ A stunning 3D portfolio website built with React, Three.js, and Framer Motion.
 - **TailwindCSS** - Styling
 - **Vite** - Build Tool
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 portfolio-3d/
@@ -42,7 +42,7 @@ portfolio-3d/
 └── postcss.config.js
 ```
 
-## 🛠️ Setup
+## Setup
 
 ```bash
 # Install dependencies
@@ -58,7 +58,7 @@ npm run build
 npm run preview
 ```
 
-## ✨ Features
+## Features
 
 - Interactive 3D particle background
 - Smooth scroll animations
@@ -68,7 +68,7 @@ npm run preview
 - Animated skill bars
 - Featured project showcase
 
-## 🎨 Customization
+## Customization
 
 Edit `src/constants/index.js` to update:
 - Personal information
@@ -76,7 +76,7 @@ Edit `src/constants/index.js` to update:
 - Projects
 - Skills
 
-## 📦 Deployment
+## Deployment
 
 ```bash
 npm run build
@@ -84,6 +84,6 @@ npm run build
 
 Deploy the `dist` folder to Vercel, Netlify, or any static hosting.
 
-## 📄 License
+## License
 
 MIT License - Feel free to use for your own portfolio!
